@@ -1,3 +1,8 @@
+official project page: `project_mage2gen`_
+
+
+
+
 
 .. image:: https://travis-ci.org/krukas/Mage2Gen.svg?branch=master
     :target: https://travis-ci.org/krukas/Mage2Gen
@@ -260,3 +265,4 @@ Example implementation:
 
 .. _docs: http://devdocs.magento.com/guides/v2.0/extension-dev-guide/plugins.html
 .. _mage2gen: http://mage2gen.com
+.. _project_mage2gen: https://github.com/krukas/Mage2Gen
